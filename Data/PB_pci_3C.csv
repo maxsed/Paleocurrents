@@ -1,0 +1,5 @@
+Location,PCI_ddir,PCI_dip,Bed_ddir,Bed_dip,Direction,Type
+3C,33,18,,,,Imbrication
+,18,5,,,,Imbrication
+,18,10,,,,Imbrication
+,75,40,,,,Imbrication

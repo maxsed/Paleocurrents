@@ -1,0 +1,7 @@
+Location,PCI_ddir,PCI_dip,Bed_ddir,Bed_dip,Direction,Type
+1i,332,,,,,imbrication
+,30,,,,,imbrication
+,7,,,,,imbrication
+,328,,,,,imbrication
+,14,,,,,imbrication
+,325,,,,,megaflute
